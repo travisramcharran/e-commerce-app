@@ -1,5 +1,4 @@
 # E-Commerce-App
-Still a work in progress, some routes are not functional.
 
 ## Description
 This project uses a combination of express.js, SQL, mysql2, and Sequelize to create the back end of a simple ecommerce site. The purpose of this assignment was to deepen our understanding of Object-Relational Mapping. This was done by letting us connect various parts of an application's back-end, namely its MySQL Database and API routes, through a Node.js package called Sequelize. This is a back-end application for an e-commerce site that allows the company to view information about it's products, their categories, and tags. It also enables the company to create, update, or delete data whenever it is necessary.
@@ -34,4 +33,4 @@ This project uses a combination of express.js, SQL, mysql2, and Sequelize to cre
 
 ## Walkthrough Video
 
-
+https://drive.google.com/file/d/1v-LT65se3Qzka5FW57Jxkdk3cLHX2tjm/view
